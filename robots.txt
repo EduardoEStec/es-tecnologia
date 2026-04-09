@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eduardoestec.github.io/es-tecnologia/sitemap.xml
